@@ -1,0 +1,6 @@
+#Mencoba untuk memahami sesuatu hal yang baru dengan berproses dan memanfaatkan Waktu luang yang sesuai
+print("tetap semangat")
+x = 1
+if sick:
+while x == 1:
+print ("harus bisa dong jangan menyerah")
